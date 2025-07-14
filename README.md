@@ -86,7 +86,7 @@ python bot.py
 
 ---
 
-If there is error like 
+# If there is error like 
 ```bash
 discord.errors.PrivilegedIntentsRequired: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
 ```
